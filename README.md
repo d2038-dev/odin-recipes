@@ -4,7 +4,7 @@ This repository contains the solution for The Odin Project's Recipes lesson, par
 
 ## Project Overview
 
-This project is a basic recipe website created as a learning exercise to solidify foundational HTML skills. The goal was to demonstrate the ability to structure a simple website using HTML, incorporating elements like headings, paragraphs, lists, links, and images.
+This project is a basic recipe website created as a learning exercise to solidify foundational HTML and CSS skills. The goal was to demonstrate the ability to structure and style a simple website using HTML and CSS, incorporating elements like headings, paragraphs, lists, links, and images.
 
 **Key Features:**
 
@@ -15,10 +15,12 @@ This project is a basic recipe website created as a learning exercise to solidif
     - Tequeños
 - **Images:** Inclusion of relevant images for each recipe to enhance visual appeal.
 - **Basic HTML Structure:**  Utilizes semantic HTML elements to structure content logically.
+- **CSS Styling:** Utilizes CSS to style the website and enhance its visual presentation.
 
 **Technologies Used:**
 
-- **HTML:**  The primary language for structuring the content of the website.
+- **HTML:** The primary language for structuring the content of the website.
+- **CSS:** Used for styling the website.
 
 **How to View:**
 
